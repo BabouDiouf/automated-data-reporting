@@ -1,0 +1,26 @@
+﻿Product_ID,Product_Name,Category,Unit_Price
+PR001,Riz parfumé,Alimentation,1347
+PR002,Huile végétale,Alimentation,7853
+PR003,Sucre,Alimentation,6719
+PR004,Lait en poudre,Alimentation,4669
+PR005,Pâtes alimentaires,Alimentation,4614
+PR006,Téléviseur,Électronique,257863
+PR007,Téléphone,Électronique,27611
+PR008,Ordinateur portable,Électronique,209816
+PR009,Écouteurs,Électronique,62038
+PR010,Chargeur,Électronique,30064
+PR011,Ventilateur,Électroménager,133987
+PR012,Mixeur,Électroménager,244028
+PR013,Réfrigérateur,Électroménager,185260
+PR014,Fer à repasser,Électroménager,191479
+PR015,Micro-ondes,Électroménager,180782
+PR016,Savon liquide,Hygiène,7968
+PR017,Dentifrice,Hygiène,5376
+PR018,Shampoing,Hygiène,1717
+PR019,Déodorant,Hygiène,8478
+PR020,Papier hygiénique,Hygiène,4779
+PR021,Chaise,Maison,76052
+PR022,Table,Maison,56878
+PR023,Lampe,Maison,29017
+PR024,Matelas,Maison,139162
+PR025,Rangement plastique,Maison,117672
